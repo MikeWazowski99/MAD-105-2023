@@ -1,5 +1,6 @@
 fun main(){
-    var number = 9
+    print("Please enter an option: ")
+    var number = readLine()!!.toInt()
     var numString = "x"
 
     when (number) {
