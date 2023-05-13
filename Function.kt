@@ -1,5 +1,3 @@
-import java.awt.Rectangle
-
 fun Square(){
     var base = 0
     println("\nPlease enter the length of the shape: ")
