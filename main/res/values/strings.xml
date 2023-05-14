@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ParkingApp</string>
+    <string name="txtTitle">Cost of meal</string>
+    <string name="txtHours">Total Amount</string>
+    <string name="btnCharge">Calculate Amount</string>
+    <string name="prompt">Select Tip %</string>
+    <string-array name="txtGroup">
+        <item>5% Tip</item>
+        <item>10% Tip</item>
+        <item>15% Tip</item>
+        <item>20% Tip</item>
+        <item>25% Tip</item>
+    </string-array>
+</resources>
