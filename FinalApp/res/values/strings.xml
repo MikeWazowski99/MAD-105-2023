@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyFinalAPP</string>
+    <!-- Screen 1 -->
+    <string name="txtTitle">Welcome to the app please login in or register!!</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="age_hint">Enter your age</string>
+    <string name="next_button_text">Register</string>
+
+    <!-- Screen 2 -->
+    <string name="address_hint">Enter your address</string>
+    <string name="phone_hint">Enter your phone number</string>
+    <string name="gender_hint">Select your gender</string>
+    <string-array name="gender_options">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+    <string name="submit_button_text">Submit</string>
+
+    <!-- Screen 3 -->
+    <string name="feedback_hint">Enter your feedback</string>
+    <string name="rating_hint">Enter your rating (1-5)</string>
+    <string name="submit_feedback_button_text">Submit Feedback</string>
+</resources>
