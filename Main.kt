@@ -1,7 +1,8 @@
 fun main(args: Array<String>) {
-    println("Hello my name is Michael Tapia and I am trying to major in the Mobile Design and Development Associates Degree")
-    println("and the reason why I decided to take this class was because I wanted to learn how to code in Kotlin, code better, and make apps on Androids.")
-    println("One of my goals for this year is to learn how to code with Kotlin, Swift, JavaScript, and C++ before the end of this year and")
-    println("My 2 favorite hobbies are playing video games and working out but recently I've been learning how to use blender to create 3D models")
-    println("to import them into Unreal Engine to mess around and see if I can learn how to make a video game.")
+    println("Hello my name is Michael Tapia and I am trying to major in AAS in Mobile Design and Development")
+    println("I decided to take this class not only for my major but to also learn how to code better and create an app")
+    println("One of my goals for this year is to become better at coding and to learn as much as I can and to try to get ahead of the class")
+    println("So I can have enough time to create pet projects. Some of my interests include playing video games, reading, hiking and exercising")
+    println("A place I recommend everyone to go check out for hiking is Devil's Lake in Wisconsin because of the amazing view.")
+
 }
