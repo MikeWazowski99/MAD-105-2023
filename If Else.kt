@@ -10,6 +10,8 @@ fun main(args: Array<String>) {
             println("The temperature is warm")
         else if (temperature < 97.5)
             println("The temperature is cold")
+        else
+            println("End")
     }
 
 }
