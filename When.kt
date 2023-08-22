@@ -1,6 +1,6 @@
 fun main(){
     print("Please enter an option: ")
-    var number = readLine()!!.toInt()
+    val number = readLine()!!.toInt()
     var numString = "x"
 
     when (number) {
@@ -14,7 +14,7 @@ fun main(){
         8 -> numString = "Otte"
         9 -> numString = "Nueve"
         10 -> numString = "Dies"
-        !in 1..10 -> numString = "out of range"
+        !in 1..10 -> numString = "Out of range"
         else -> numString = "Unknown"
     }
 
